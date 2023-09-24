@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758229969897",
+    "project_id": "onlinelabor-44a14",
+    "storage_bucket": "onlinelabor-44a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758229969897:android:4d42be273f2bdf5bc5f978",
+        "android_client_info": {
+          "package_name": "com.example.abid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758229969897-j11pigb9ld37qvu02ncfimkvku4tke7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXlQ6a6GCRqm4n6XV7XYtllnGsbqQQCU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758229969897-j11pigb9ld37qvu02ncfimkvku4tke7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
